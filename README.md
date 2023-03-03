@@ -1,5 +1,5 @@
 ### Personal Data🐰
-# Hi there👋, I'm [Naylah Rachma Sari](https://https://www.instagram.com/nayrachma_/) 👋
+# Hi, I'm [Naylah Rachma Sari](https://https://www.instagram.com/nayrachma_/)
 ## About me:
 - 🔭 I’m currently learning at [Universitas Multi Data Palembang](https://mdp.ac.id/)
 - 🌱 I’m currently learning Python, html and Javascript
